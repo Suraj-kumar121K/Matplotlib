@@ -8,7 +8,7 @@ This course will cover everything you need to master Matplotlib!
 ## 🛠️ Important Links & Tools:
 - **👉[Datasets](https:/www.kaggle.com//):** Real-world CSV & Excel datasets for practice.
 - **👉[Python](https://www.python.org/downloads/):** Core programming language.
-- **👉[pandas](https://matplotlib.org/stable/plot_types/stats/violin.html):** Powerful data analysis & manipulation library
+- **👉[Matplotlib](https://matplotlib.org/stable/plot_types/stats/violin.html):** Powerful data analysis & manipulation library
 - **👉[VS Code](https://code.visualstudio.com/download/):** Recommended code editor.
 - **👉[Jupyter Notebook](https://www.anaconda.com/download/):** Jupyter Notebook.
 
