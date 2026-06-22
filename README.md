@@ -33,9 +33,9 @@ pandas-ultimate-course/
 │
 ├── datasets/              # CSV & Excel datasets
 │
-├── scripts/               # Pandas Python scripts
+├── scripts/               # Matplotlib scripts
 │
-└── docs/                  # Pandas notes & explanations
+└── docs/                  # Matplotlib notes & explanations
 ```
 
 ---
